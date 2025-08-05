@@ -1,7 +1,9 @@
 **Анализатор сетевого трафика**
+
 Проект на Python для перехвата и анализа сетевых пакетов. Визуализирует топ-10 IP-адресов по количеству перехваченных пакетов.
 
 Пример вывода:
+
 <img width="454" height="268" alt="image" src="https://github.com/user-attachments/assets/38def04c-8e12-418c-8272-02e9eba92420" />
 
 Требования:
@@ -20,8 +22,10 @@
   sudo python3 main.py
 
   Структура проекта:
+  
   traffic_analyzer/
 ├── main.py             Основной скрипт
 ├── utils.py            Визуализация данных
 ├── requirements.txt    Зависимости
 └── traffic_stats.png   Пример графика
+
