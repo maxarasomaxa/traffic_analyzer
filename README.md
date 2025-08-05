@@ -13,17 +13,11 @@
   ```bash
   scapy pandas matplotlib
 
-  Установка:
-  
-  1. Клонируйте репозиторий
-  git clone https://github.com/maxarasomaxa/traffic_analyzer.git
-  2. Установите зависимости
-  pip install -r requirements.txt
-
-  Запуск:
-  
-  sudo python3 main.py
-
+Установка:
+1. Клонируйте репозиторий git clone https://github.com/maxarasomaxa/traffic_analyzer.git
+2. Установите зависимости pip install -r requirements.txt
+Запуск:
+sudo python3 main.py
 
 Структура проекта:
 
@@ -31,6 +25,7 @@ main.py             Основной скрипт
 utils.py            Визуализация данных
 requirements.txt    Зависимости
 traffic_stats.png   Пример графика
+
 
 
 
