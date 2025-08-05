@@ -24,11 +24,13 @@
   
   sudo python3 main.py
 
-  Структура проекта:
+
+Структура проекта:
 
 main.py             Основной скрипт
 utils.py            Визуализация данных
 requirements.txt    Зависимости
 traffic_stats.png   Пример графика
+
 
 
